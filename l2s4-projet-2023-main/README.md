@@ -9,7 +9,7 @@
 
 # Sujet
 
-[Le sujet 2023](https://www.fil.univ-lille.fr/portail/index.php?dipl=L&sem=S4&ue=Projet&label=Documents)
+[Le sujet 2023](https://www.fil.univ-lille.fr/~varre/portail/l2s4-projet/sujet2023.pdf)
 
 [Diagramme UML](https://lucid.app/lucidchart/0c43b0b4-3f5b-4ec0-91e4-d69c25c40142/edit?invitationId=inv_9513dd39-9cef-4f26-a7b3-5f902e391fed&page=0_0#)
 
