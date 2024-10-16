@@ -17,8 +17,6 @@
 
 ## Livrable 1
 
-<img src="https://gitlab-etu.fil.univ-lille.fr/nicolas.senecaux.etu/l2s4-projet-2023/-/raw/main/Diagramme%20UML/Projet%20L1.png" width=85% alt="Diagramme UML Livrable 1">
-
 
 Tâche attribuée:
 - **Ville** : Nicolas Han et Nicolas Sénécaux
@@ -34,8 +32,6 @@ Tâche attribuée:
 
 
 ## Livrable 2
-
-<img src="https://gitlab-etu.fil.univ-lille.fr/nicolas.senecaux.etu/l2s4-projet-2023/-/raw/main/Diagramme%20UML/Projet%20L2.png" width=85% alt="Diagramme UML Livrable 2">
 
 Taches attribuées:
 - **Cartes** : Nicolas Senecaux, Nicolas Han
